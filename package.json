@@ -1,0 +1,10 @@
+{
+  "name": "arrowdotcom",
+  "version": "1.0.0",
+  "description": "a script to scrape the data of products from arrwo dotcom",
+  "main": "script.js",
+  "repository": "git@github.com:sammmkhannn/arrowdotcom.git",
+  "author": "sammmkhannn",
+  "license": "MIT",
+  "private": true
+}
